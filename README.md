@@ -6,6 +6,13 @@ This is an app that allows a user to improve their fitness by giving them the ab
 
 ## View Fitness Bro [Here](https://fitness-bro.netlify.app/)
 ## View Planning Materials [Here](https://trello.com/b/J4kVEdTr/fitness-bro)
+## View Back-end GitHub Repo [Here](https://github.com/pourroymatt750/fitness-bro-back-end)
+
+## Contributers 
+- Matthew Pourroy, view GitHub Profile [Here](https://github.com/pourroymatt750)
+- Brian McCune, view Github Profile [Here](https://github.com/Brian4755)
+- Alexandrea Hom, view GitHub Profile [Here](https://github.com/alexandreahom)
+- Omar Farah, view GitHub Profile [Here](https://github.com/therealOfarah)
 
 ## Technologies Used:
 - React.js
