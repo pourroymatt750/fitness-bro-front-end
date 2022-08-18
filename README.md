@@ -1,6 +1,7 @@
 # Fitness Bro
 
-![preview](https://scontent.xx.fbcdn.net/v/t1.15752-9/277357774_746896209634667_5474796510738894570_n.png?stp=dst-png_p403x403&_nc_cat=106&ccb=1-7&_nc_sid=aee45a&_nc_ohc=DQ0-9RjeW_kAX86AwT_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIyHITKHDVSu3TTvU0n6w-42p39MOGpOkzr4-cxlq07DQ&oe=62FCE078)
+![fitness-bro-readme](https://user-images.githubusercontent.com/69867050/185457192-71a0296a-ae59-431d-9307-df9231e0d329.jpeg)
+
 
 This is an app that allows a user to improve their fitness by giving them the ability to track both their meals and their workouts. This app has two API's, one that allows a user to look up the nutrition value of their meals (calories, protein, ect) and another API that allows a user to look up different types of workouts for different body parts the user wishes to workout. This is a full-stack MERN application consisting of mostly React.js for the front-end user-interface with Monggose and MongoDB being primarily used for the back-end. 
 
