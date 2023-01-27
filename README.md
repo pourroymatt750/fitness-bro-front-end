@@ -5,7 +5,7 @@
 
 This is an app that allows a user to improve their fitness by giving them the ability to track both their meals and their workouts. This app has two API's, one that allows a user to look up the nutrition value of their meals (calories, protein, ect) and another API that allows a user to look up different types of workouts for different body parts the user wishes to workout. This is a full-stack MERN application consisting of mostly React.js for the front-end user-interface with Monggose and MongoDB being primarily used for the back-end. 
 
-## View Fitness Bro [Here](https://fitness-bro.netlify.app/)
+## View Fitness Bro [Here](https://github.com/Brian4755/FitnessBroFrontEnd)
 ## View Planning Materials [Here](https://trello.com/b/J4kVEdTr/fitness-bro)
 ## View Back-end GitHub Repo [Here](https://github.com/pourroymatt750/fitness-bro-back-end)
 
